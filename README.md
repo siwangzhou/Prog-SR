@@ -10,7 +10,7 @@ For testing, we use five standard benchmark datasets, including Set5, Set14, BSD
 
 ### Train
 The Python source files to run training for α<sub>1</sub> ~ α<sub>7</sub> approaches are stored in the subdirectory “Train”.
-The definition files of the network model are stored in the subdirectory “ops”.
+The Python source files of the network model are stored in the subdirectory “ops”.
 
 ### Test
 The well-trained checkpionts is stored in the subdirectory “Checkpoints”.
